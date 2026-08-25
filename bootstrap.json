@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "api_base": "https://api.auralocals.com",
+  "latest_version": 2,
+  "update_url": "https://api.auralocals.com/download/sir-tv.apk",
+  "force_update": false,
+  "mirrors": ["https://api.auralocals.com/app/bootstrap"]
+}
